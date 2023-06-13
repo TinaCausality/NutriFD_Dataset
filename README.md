@@ -23,7 +23,9 @@ Please refer to the respective notebooks for more detailed information on each s
 To utilize the NutriFD database, follow these steps:
 
 1. Clone this repository to your local machine:
-git clone https://github.com/your-username/nutrifd-database.git
+git clone [https://github.com/your-username/nutrifd-database.git](https://github.com/TinaCausality/NutriFD_Dataset.git)
+
+2. Download related data in https://drive.google.com/file/d/1S_m0D99Kor00rSs5WajHUPLdwAVykW6L/view?usp=drive_link.
 
 2. Install the necessary dependencies as specified in the notebook files.
 
