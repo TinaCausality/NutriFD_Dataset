@@ -29,5 +29,5 @@ git clone https://github.com/your-username/nutrifd-database.git
 
 3. Open the notebooks using Jupyter Notebook or any compatible environment and run the code cells to reproduce the database construction process.
 
-Feel free to explore and utilize the NutriFD database for your research or projects. For any inquiries or issues, please contact us at [your-email@example.com](mailto:your-email@example.com).
+Feel free to explore and utilize the NutriFD database for your research or projects. For any inquiries or issues, please contact us at [your-email@example.com](mailto:tinalalala12580@gmail.com).
 
