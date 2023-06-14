@@ -1,6 +1,6 @@
 # NutriFD Database
 
-We have established the NutriFD database, as described in our research paper [link to the paper](https://arxiv.org/abs/2304.04775). The NutriFD database is a comprehensive collection of food, nutrition, compound, and disease information. All data used in the code can be downloaded in https://drive.google.com/file/d/1S_m0D99Kor00rSs5WajHUPLdwAVykW6L/view?usp=drive_link. NutriFD Web can be found in the link https://nutrifd.dedyn.io. 
+We have established the NutriFD database, as described in our research paper [link to the paper](https://arxiv.org/abs/2304.04775). The NutriFD database is a comprehensive collection of food-nutrition data, food-disease treatment inference scores, food-disease association inference scores, food information,and disease information. All data used in the code can be downloaded in https://drive.google.com/file/d/1S_m0D99Kor00rSs5WajHUPLdwAVykW6L/view?usp=drive_link. NutriFD Web can be found in the link https://nutrifd.dedyn.io. 
 
 ## Database Construction
 
