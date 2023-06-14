@@ -3,6 +3,8 @@
 We have established the NutriFD database, as described in our research paper [link to the paper](https://arxiv.org/abs/2304.04775). The NutriFD database is a comprehensive collection of food-nutrition data, food-disease treatment inference scores, food-disease association inference scores, food information,and disease information. All data used in the code can be downloaded in https://drive.google.com/file/d/1S_m0D99Kor00rSs5WajHUPLdwAVykW6L/view?usp=drive_link. NutriFD Web can be found in the link https://nutrifd.dedyn.io. 
 
 ## Database Construction
+<img width="778" alt="截屏2023-06-14 10 37 19" src="https://github.com/TinaCausality/NutriFD_Dataset/assets/83120370/938693ba-2af2-4e47-a189-9340a20e6445">
+
 
 The NutriFD database was constructed through the following steps:
 
